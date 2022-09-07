@@ -1,5 +1,5 @@
 Hi! I’m a full-stack Software Engineer based in Brooklyn, NY.
-[Website](https://jordanseggers.github.io/)
+Check out my webpage [here](https://jordanseggers.github.io/)
 
 #### Skills:
 
@@ -17,3 +17,4 @@ Most recently, I co-created and built Tailslide, an open-source feature flag fra
 
 See the Tailsldie case study [here](https://tailslide-io.github.io/)
 
+![Tailslide Logo](https://jordanseggers.github.io/images/tailslide_logo.png)
