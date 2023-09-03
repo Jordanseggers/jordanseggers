@@ -6,13 +6,13 @@ As a Software Developer at Kohn Pedersen Fox, I handle the development of three 
 #### Skills:
 
 ##### front-end: 
-JavaScript, HTML/CSS, Vue/Pinia, React/Redux
+JavaScript, TypeScript HTML/CSS, Vue/Pinia, React/Redux
 
 ##### back-end: 
-Node.js, Express, PostgreSQL, RESTful APIs, MongoDB
+Node.js, Fastify, Express, AWS Aurora PostgreSQL, RESTful APIs, MongoDB
 
 ##### Tooling/Other: 
-AWS EC2/SES/Secrets Manager, Git/GitHub, NATS, Docusaurus, DigitalOcean Droplets
+AWS EC2/S3/SES/Cognito/CloudFront, Git/GitHub, NATS, Docusaurus
 
 
 I recently co-created and built Tailslide, an open-source feature flag framework for easier code deployment with automated failure protection. Tailslide was built using Node.js, Express, NATs JetStream, PostgreSQL, Redis Timeseries Database, and React/Redux. 
