@@ -1,5 +1,7 @@
-Hi! I’m a full-stack Software Engineer based in Brooklyn, NY.
+Full-Stack Software Engineer based in Brooklyn, NY.
 Check out my webpage [here](https://jordanseggers.github.io/).
+
+As a Software Developer at Kohn Pedersen Fox, I handle the development of three applications for the architectural staff. My career started with architecture, but a role as a BIM lead, specializing in 3D modeling, led to a chance to collaborate with developers at that same firm. Their work was so interesting that I dedicated my next couple of years to an intensive coding school journey that resulted in a full-fledged career transition to software development.
 
 #### Skills:
 
